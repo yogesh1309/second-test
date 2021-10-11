@@ -19,11 +19,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        createDialog(this,"Testing popup");
-    }
-    public static void createDialog(final Context context, final String message)
-    {
-        final Dialog dialog = new Dialog(context);
+        final Dialog dialog = new Dialog(this);
 
         dialog.requestWindowFeature(Window.FEATURE_NO_TITLE); // before
         dialog.setContentView(R.layout.dialog_layout);
@@ -35,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
         lp.height = WindowManager.LayoutParams.WRAP_CONTENT;
 
         TextView text = (TextView) dialog.findViewById(R.id.content);
-        text.setText(message);
+        text.setText("Testing");
 
         ((AppCompatButton) dialog.findViewById(R.id.bt_close)).setOnClickListener(new View.OnClickListener() {
             @Override
@@ -48,6 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
         dialog.show();
         dialog.getWindow().setAttributes(lp);
-    }
 
+    }
 }
