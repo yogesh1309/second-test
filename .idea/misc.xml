@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="custommassagepopup/src/main/res/drawable/ic_info.xml" value="0.21076923076923076" />
+        <entry key="custommassagepopup/src/main/res/drawable/new_buton_rounded.xml" value="0.21076923076923076" />
+        <entry key="custommassagepopup/src/main/res/drawable/rect_roundredbtn.xml" value="0.21076923076923076" />
+        <entry key="custommassagepopup/src/main/res/drawable/rect_top_bg.xml" value="0.21076923076923076" />
+        <entry key="custommassagepopup/src/main/res/layout/activity_main.xml" value="0.1828125" />
+        <entry key="custommassagepopup/src/main/res/layout/dialog_layout.xml" value="0.19487179487179487" />
+        <entry key="customuniversalpopup/src/main/res/layout/dialog_layout.xml" value="0.16944444444444445" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
