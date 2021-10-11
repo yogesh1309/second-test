@@ -3,6 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/ic_info_white.xml" value="0.21076923076923076" />
+        <entry key="app/src/main/res/drawable/new_buton_rounded.xml" value="0.21076923076923076" />
+        <entry key="app/src/main/res/drawable/rect_roundbtn_bg.xml" value="0.21076923076923076" />
+        <entry key="app/src/main/res/drawable/rect_topradius_bg.xml" value="0.21076923076923076" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19487179487179487" />
+        <entry key="app/src/main/res/layout/dialog_layout.xml" value="0.19487179487179487" />
         <entry key="custommassagepopup/src/main/res/drawable/ic_info.xml" value="0.21076923076923076" />
         <entry key="custommassagepopup/src/main/res/drawable/new_buton_rounded.xml" value="0.21076923076923076" />
         <entry key="custommassagepopup/src/main/res/drawable/rect_roundredbtn.xml" value="0.21076923076923076" />

@@ -9,4 +9,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Library Module"
 include ':app'
-include ':CustomMessagePopup'
